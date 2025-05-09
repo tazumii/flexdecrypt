@@ -1,5 +1,5 @@
 ## iOS App & Mach-O binary decryption
-This is a decryption tool for research purposes. It uses mremap_encrypted to decrypt a file from disk.  
+This is a decryption tool for research purposes. It uses mremap_encrypted to decrypt a file from disk.   :)
 
 ### Installation  
 1. Download the .deb package from the [the latest release.](https://github.com/JohnCoates/flexdecrypt/releases/latest)
